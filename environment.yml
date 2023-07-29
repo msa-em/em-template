@@ -1,0 +1,13 @@
+name: em-template
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - plotly
+  - nglview
+  - ipywidgets
+  - jupyterlab>=4.0.0
+  - jupyterlab-myst>=2.0.0
