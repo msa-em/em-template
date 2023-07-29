@@ -9,5 +9,6 @@ dependencies:
   - plotly
   - nglview
   - ipywidgets
+  - ipympl
   - jupyterlab>=4.0.0
   - jupyterlab-myst>=2.0.0

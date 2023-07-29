@@ -18,6 +18,13 @@ numbering:
 This article is a template for the [Elemental Microscopy](http://www.elementalmicroscopy.com/) journal. This journal is focused on educational and informative content, using a highly interactive platform built on modern web technologies. Our articles are written with a combination of: 
 
 
+
+<img style="float: right;" src="/figures/graphical_abstract.png" width="256px">
+
+Continue markdown text...
+
+
+<!-- 
 <div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
   <div>parent
 
@@ -36,7 +43,7 @@ child
   </div>
 </div>
 
-
+ -->
 <!-- ```{image} /figures/graphical_abstract.png
 :alt: graphical abstract
 :class: bg-primary mb-1
