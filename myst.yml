@@ -4,7 +4,7 @@ project:
   title: Article template for Elemental Microscopy
   short_title: EM Template
   # description:
-  keywords: [markdown, ]
+  keywords: []
   github: https://github.com/msa-eom/em-template
   # bibliography: []
   authors:
