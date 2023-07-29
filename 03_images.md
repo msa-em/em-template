@@ -12,9 +12,6 @@ text
 
 ```
 
-```{figure} #app:fft_1d
-
-```
 
 
 more text
