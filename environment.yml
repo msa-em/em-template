@@ -2,7 +2,7 @@ name: em-template
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python
   - numpy
   - scipy
   - matplotlib
