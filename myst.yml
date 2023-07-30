@@ -15,8 +15,14 @@ project:
       affiliations:
         - National Center for Electron Microscopy, Molecular Foundry, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, USA, 94720
   abbreviations:
-    FAIR: Findable, Accessible, Interoperable, and Reusable
+    EWR: exit wave reconstruction
+    FAIR: findable, accessible, interoperable, and reusable
     FOV: field-of-view
+    GB: grain boundary
+    HRTEM: High resolution transmission electron microscopy
+  # numbering:
+  #   heading_2: true
+  #   heading_3: true
   thebe:
     server: true
 site:
