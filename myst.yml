@@ -16,6 +16,7 @@ project:
         - National Center for Electron Microscopy, Molecular Foundry, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, USA, 94720
   abbreviations:
     FAIR: Findable, Accessible, Interoperable, and Reusable
+    FOV: field-of-view
   thebe:
     server: true
 site:

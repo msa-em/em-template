@@ -11,54 +11,15 @@ numbering:
 +++ {"part": "abstract"} 
 ## Abstract
 
-<!-- ![graphical abstract](/figures/graphical_abstract.png) -->
-<!-- <img src="/figures/graphical_abstract.png" alt="graphical abstract" height="256"/> -->
-
-
-This article is a template for the [Elemental Microscopy](http://www.elementalmicroscopy.com/) journal. This journal is focused on educational and informative content, using a highly interactive platform built on modern web technologies. Our articles are written with a combination of: 
-
-
-<!-- 
-<img style="float: right;" src="/figures/graphical_abstract.png" width="256px">
-
-Continue markdown text...
- -->
-
-<!-- 
-<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
-  <div>parent
-
-```html
-<component>content</component>
-```
-
-  </div>
-  <div>
-child
-
-```html
-<slot>fallback content</slot>
-```
-
-  </div>
-</div>
-
- -->
-<!-- ```{image} /figures/graphical_abstract.png
+```{image} /figures/graphical_abstract.png
 :alt: graphical abstract
 :class: bg-primary mb-1
 :width: 256 px
 :align: right
 ```
- -->
-<!-- <img align="right" src="/figures/graphical_abstract.png" width="256px"> -->
 
+This article is a template for the [Elemental Microscopy](http://www.elementalmicroscopy.com/) journal. This journal is focused on educational and informative content, using a highly interactive platform built on modern web technologies. Our articles are written with a combination of: 
 
-<!-- <img src="/figures/graphical_abstract.png" alt="drawing" width="200"/> -->
-
-<!-- ![graphical abstract](/figures/graphical_abstract.png) -->
-<!-- {width=200px} -->
-<!-- {.bg-warning w=256px align=right} -->
 
 * [Python](https://www.python.org/)
 * [Jupyter Lab](https://jupyter.org/)
@@ -66,20 +27,26 @@ child
 * [MyST Markdown](https://jupyterbook.org/en/stable/content/myst.html)
 * [BibTeX](https://jupyterbook.org/en/stable/content/myst.html)
 
-Articles should focus on educational or methodological topics. In the future we will publish original research on this platform and move many of these features to our sister journals.
+Articles should focus on educational or methodological topics. In the future we will publish original research on this platform and move many of these features to our sister journals. Your abstract should provide a succint and clear outline of your paper. Figures can be directly referenced in the abstract, and can be viewed by hovering over them, for example 
 
+
+
++++ {"part": "code and data"} 
+## Code and Data Availability
+
+All of the code used to generate this template is directly available inline, or can be found at the GitHub repo for an [EM article template](https://github.com/msa-eom/em-template).
 
 
 +++ {"part": "acknowledgements"} 
 ## Acknowledgements
 
-We thank the [Microscopy Society of America]() for sponsoring this project. 
+We thank the [Microscopy Society of America](https://www.microscopy.org/) for sponsoring this project. 
 
 
 Work at the Molecular Foundry was supported by the Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
 
 
 +++ {"part": "competing interests"} 
-## Declaration of Competing Interest
+## Competing Interests
 
 The authors declare that they have no known competing interests.
