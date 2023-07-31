@@ -8,7 +8,6 @@ dependencies:
   - matplotlib
   - plotly
   - nglview
-  - imageio
   - imageio-ffmpeg
   - ipywidgets
   - ipympl

@@ -1,7 +1,7 @@
 ---
 title: Movies and Movie Widgets
 numbering:
-  enumerator: 1.%s
+  enumerator: 2.%s
 ---
 
 
@@ -50,15 +50,17 @@ Multislice HRTEM simulation of a hollow gold nanosphere. Sample morphology estim
 <!-- :::::{tab-set}
 
 ::::{tab-item} HTML Embedding
+:sync: tab_01
 
-:::{figure} #app:simple_movie_embedding
-:name: fig_simple_movie_embedding
-simple movie embedding caption
+:::{figure} ./notebooks/data/STEM4D_remake.mp4
+:name: md_embedding
+movie html embedding caption
 :::
 
 ::::
 
 ::::{tab-item} ipywidgets Embedding
+:sync: tab_02
 
 :::{figure} #app:play_widget_movie_embedding
 :name: fig_ipywidgets_embedding
@@ -68,3 +70,4 @@ ipywidgets embedding caption
 :::: -->
 
 :::::
+
