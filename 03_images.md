@@ -4,7 +4,6 @@ numbering:
   enumerator: 1.%s
 ---
 
-
 Figures are typically the most important part of any scientific paper, especially for studies focused on microscopy. We can include figures in many ways, for example by inserting conventional static figures using markdown:
 
 :::{figure} ./figures/EWR_graphene_v03.pdf
@@ -41,6 +40,8 @@ Exit wave amplitude of a single-layer graphene GB, from HRTEM focal series recon
 
 ::::
 
+:::::
+
 Note that while we only display a single tab at a time, we can reference these panels individually: the EWR phase is shown in [](#fig_EWR_graphene_phase), while the EWR amplitude is show in [](#fig_EWR_graphene_amp). If you mouse over either of these links, previews of the figure panel will pop up.
 
 
@@ -52,5 +53,5 @@ Tabbed image viewing is certainly more space-efficient than conventional figure 
 Exit wave reconstruction of a single-layer graphene GB, from HRTEM focal series. Adapted from {cite:t}`ophus2016automatic`.
 :::
 
-Try playing around with this figure!  You can zoom in, pan around, change the contrast range, and even change the colormap. Additionally we can use a dropdown menu to select either the EWR phase or amplitude. We reference [](#fig_EWR_graphene_amp-interactive) in the same manner as before.
+Try playing around with this figure!  You can zoom in, pan around, change the contrast range, and even change the colormap. Additionally we can use a dropdown menu to select either the EWR phase or amplitude. We reference [](#fig_EWR_graphene_interactive) in the same manner as before.
 
