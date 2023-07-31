@@ -23,6 +23,7 @@ project:
     4D-STEM: four dimensional scanning transmission electron microscopy
     EWR: exit wave reconstruction
     FAIR: findable, accessible, interoperable, and reusable
+    FFT: fast Fourier transform
     FOV: field-of-view
     GB: grain boundary
     HAADF: high angle annular dark field

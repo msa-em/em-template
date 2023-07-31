@@ -26,6 +26,7 @@ This article is a template for the [Elemental Microscopy](http://www.elementalmi
 * [Jupyter Book](https://jupyterbook.org/)
 * [MyST Markdown](https://jupyterbook.org/en/stable/content/myst.html)
 * [BibTeX](https://jupyterbook.org/en/stable/content/myst.html)
+* [Curvenote](https://curvenote.com/)
 
 Articles should focus on educational or methodological topics. In the future we will publish original research on this platform and move many of these features to our sister journals. Your abstract should provide a succint and clear outline of your paper. Figures can be directly referenced in the abstract, and can be viewed by hovering over them, for example 
 
