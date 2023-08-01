@@ -22,7 +22,10 @@ Joint ptychographic-tomographic reconstruction of a simulated CNT with a missing
 ::::{tab-item} Volume Slicing
 :sync: tabmovie2
 
-Hmm.. plotly's Surface seems to be currently broken on jupyterlab - will brainstorm workarounds.
+:::{figure} #app:ipympl_interactive_ipywidgets_slicing
+:name: fig_volume_slicing
+Joint ptychographic-tomographic reconstruction of a simulated CNT with a missing wedge of 60 deg. Reproduced from [G Varnavides](https://github.com/py4dstem/py4DSTEM_tutorials/blob/main/notebooks/ptycho05_CNT_overlap-tomography.ipynb).
+:::
 
 ::::
 
