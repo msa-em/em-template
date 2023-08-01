@@ -1,10 +1,30 @@
 ---
 title: 3D Plots and 3D Widgets
 numbering:
-  enumerator: 1.%s
+  enumerator: 3.%s
 ---
 
 
-text
+3D datasets like tomography can also be visualized interactively:
 
+:::::{tab-set}
+
+::::{tab-item} Volume Rendering
+:sync: tabmovie1
+
+:::{figure} #app:plotly_interactive_ipywidgets
+:name: fig_volume_rendering
+Joint ptychographic-tomographic reconstruction of a simulated CNT with a missing wedge of 60 deg. Reproduced from [G Varnavides](https://github.com/py4dstem/py4DSTEM_tutorials/blob/main/notebooks/ptycho05_CNT_overlap-tomography.ipynb).
+:::
+
+::::
+
+::::{tab-item} Volume Slicing
+:sync: tabmovie2
+
+Hmm.. plotly's Surface seems to be currently broken on jupyterlab - will brainstorm workarounds.
+
+::::
+
+:::::
 
