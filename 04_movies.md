@@ -23,7 +23,7 @@ Animation showing the principles of conventional HAADF-STEM and 4D-STEM. Reprodu
 ::::{tab-item} Animations
 :sync: tabmovie2
 
-:::{figure} #app:ipympl_animation
+:::{figure} #app:animated_movie
 :name: fig_movie_widget_ipympl
 Multislice HRTEM simulation of a hollow gold nanosphere. Sample morphology estimated from  {cite:p}`lindley2021spatiotemporal`.
 :::
@@ -33,7 +33,7 @@ Multislice HRTEM simulation of a hollow gold nanosphere. Sample morphology estim
 ::::{tab-item} Interactive Figures
 :sync: tabmovie3
 
-:::{figure} #app:ipympl_interactive_ipywidgets
+:::{figure} #app:interactive_movie
 :name: fig_movie_widget_ipympl_ipywidgets
 Multislice HRTEM simulation of a hollow gold nanosphere. Sample morphology estimated from  {cite:p}`lindley2021spatiotemporal`.
 :::

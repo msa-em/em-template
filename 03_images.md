@@ -48,7 +48,7 @@ Note that while we only display a single tab at a time, we can reference these p
 Tabbed image viewing is certainly more space-efficient than conventional figure panel layouts. However with python widgets we can do far better! In addition to placing multiple panels into the same space, we can also allow the reader to zoom in or out, pan around, and even change the image contrast. This is especially important for microscopy images which may have large dynamic ranges, or require both a large FOV and high resolution to fully appreciate.
 
 
-:::{figure} #app:image_widget
+:::{figure} #app:interactive_image
 :name: fig_EWR_graphene_interactive
 Exit wave reconstruction of a single-layer graphene GB, from HRTEM focal series. Adapted from {cite:t}`ophus2016automatic`.
 :::
