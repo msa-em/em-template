@@ -5,10 +5,6 @@ This repository contains the article template for an `Elemental Microscopy` arti
 ## Images
 
  <img src="/figures/demo_image_small.gif" alt="image widget example" width="360">
-
-
-![image widget example](/figures/demo_image_small.gif) 
-
 [](fig_EWR_graphene_interactive)
 
 
@@ -16,18 +12,14 @@ This repository contains the article template for an `Elemental Microscopy` arti
 
 ## Movies
 
-![movie widget example](/figures/demo_movie_smaller.gif) 
-
-
+ <img src="/figures/demo_movie_smaller.gif" alt="movie widget example" width="360">
 [](fig_movie_widget_ipympl)
-
 
 
 
 ## 3D Volumes
 
-![3D volume widget example](/figures/demo_3d_small.gif) 
-
+ <img src="/figures/demo_3d_small.gif" alt="3d volume widget example" width="360">
 [](fig_volume_rendering)
 
 
