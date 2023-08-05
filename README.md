@@ -1,24 +1,41 @@
 # README
 
-This repository contains the article template for an `Elemental Microscopy` article.
-
-It also contains examples of the standard widgets, including:
+This repository contains the article template for an `Elemental Microscopy` article. It also contains examples of the standard widgets, including:
 
 ## Images
+
+ <img src="/figures/demo_image_small.gif" alt="image widget example" width="360">
+
+
+![image widget example](/figures/demo_image_small.gif) 
 
 [](fig_EWR_graphene_interactive)
 
 
 
+
 ## Movies
+
+![movie widget example](/figures/demo_movie_smaller.gif) 
+
 
 [](fig_movie_widget_ipympl)
 
 
+
+
 ## 3D Volumes
+
+![3D volume widget example](/figures/demo_3d_small.gif) 
 
 [](fig_volume_rendering)
 
+
+
+
+## People
+
+This template was developed by [Colin Ophus](mailto:cophus@gmail.com) and [Georgios Varnavides](mailto:gvarnavides@berkeley.edu)
 
 
 
