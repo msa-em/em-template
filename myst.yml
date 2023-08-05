@@ -21,6 +21,8 @@ project:
         - Miller Institute for Basic Research in Science, University of California, Berkeley, CA, USA, 94720
   abbreviations:
     4D-STEM: four dimensional scanning transmission electron microscopy
+    BibTeX: portmanteau of of “bibliography” and TeX (LaTeX)
+    DOI: digital object identifier
     EWR: exit wave reconstruction
     FAIR: findable, accessible, interoperable, and reusable
     FFT: fast Fourier transform
@@ -28,6 +30,7 @@ project:
     GB: grain boundary
     HAADF: high angle annular dark field
     HRTEM: high resolution transmission electron microscopy
+    PDF: portable document format
     STEM: scanning transmission electron microscopy
   # numbering:
   #   heading_2: true

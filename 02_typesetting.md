@@ -91,7 +91,7 @@ You can link to any figure, equation, code block, section of your paper, or exte
 * Equation [](eq_schrodinger_electrons)
 * [](fig_EWR_graphene_phase)
 * [](fig_movie_widget_ipympl)
-# [](table_example)
+* [](#table_example)
 * <https://www.go-fair.org/fair-principles/>
 * {cite:p}`wilkinson2016fair`
 
