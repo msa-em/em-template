@@ -5,7 +5,9 @@ numbering:
   heading_2: false
 ---
 
-*Updated 2023 July 29*
+*⚠️ This article has not yet been peer-reviewed ⚠️*
+
+*Updated 2023 Aug 5*
 
 
 +++ {"part": "abstract"} 
@@ -28,14 +30,9 @@ This article is a template for the [Elemental Microscopy](http://www.elementalmi
 * [BibTeX](https://jupyterbook.org/en/stable/content/myst.html)
 * [Curvenote](https://curvenote.com/)
 
-Articles should focus on educational or methodological topics. In the future we will publish original research on this platform and move many of these features to our sister journals. Your abstract should provide a succint and clear outline of your paper. Figures can be directly referenced in the abstract, and can be viewed by hovering over them, for example 
+Articles should focus on educational or methodological topics. In the future we will publish original research on this platform, and move many of these features to our sister journals. Your abstract should provide a succinct and clear outline of your paper. Figures can be directly referenced in the abstract, and can be viewed by hovering over them, for example 
 
 
-
-+++ {"part": "code and data"} 
-## Code and Data Availability
-
-All of the code used to generate this template is directly available inline, or can be found at the GitHub repo for an [EM article template](https://github.com/msa-eom/em-template).
 
 
 +++ {"part": "acknowledgements"} 
