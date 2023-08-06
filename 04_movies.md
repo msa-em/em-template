@@ -4,8 +4,11 @@ numbering:
   enumerator: 2.%s
 ---
 
+Often, the data we wish to present are logically arranged in a sequence, e.g. an acquired movie during an in-situ TEM experiment or 360° orbits around 3D visualizations.
+In typical print journals these are often presented as snapshots or attached as supplemental materials.
 
-There are many ways to embed a movie, ranging from simple HTML wrappers to interactive widgets. Below we demonstrate some of these methods:
+Since the journal is intended to be read online, we can instead embed movies directly on the page.
+Below we demonstrate a number of ways to accomplish these including direct HTML embedding as in [](#fig_movie_html), precomputed animations as in [](#fig_movie_widget_ipympl), and fully-interactive movie players as in [](#fig_movie_widget_ipympl_ipywidgets).
 
 :::::{tab-set}
 

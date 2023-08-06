@@ -4,8 +4,11 @@ numbering:
   enumerator: 3.%s
 ---
 
+While most microscopy images are often obtained in projection, advanced techniques such as electron tomography and multislice ptychography enable the 3D reconstruction of structures.
+Due to the limitations of print journals, these results are often presented as 2D slices of the 3D objects of interest or at-best as 360° orbit movies.
+These make the results difficult to interpret and evaluate.
 
-3D datasets like tomography can also be visualized interactively:
+To overcome these limitations, we can embed interactive 3D visualization libraries directly on the page including volumetric rendering as in [](#fig_volume_rendering) and volume slicing as in [](#fig_volume_slicing).
 
 :::::{tab-set}
 

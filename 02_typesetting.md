@@ -15,10 +15,6 @@ Your paper should be divided into logical sections. We recommend using different
 
 We also requite that you include both and introduction and conclusion section. You may organize the remainder of the paper however you wish. All code and data required to reproduce the results be provided inline or as external download links to public repositories. Writing style and article content should generally follow the guidelines of the [Microscopy and Microanalysis](https://academic.oup.com/mam/pages/general-instructions#Manuscript) journal.
 
-<!-- You can reference any section or subsection, for example we can reference the current section as {ref}`paper_layout`, a section further down this page (e.g. [](citations)), or any section or sub-section from other chapters such as the [Introduction](01_intro) or {ref}`summary`. -->
-
-
-
 (equations)=
 ## Equations
 
@@ -31,9 +27,9 @@ $$
 where $i$ is the imaginary constant, $\hbar$ is the Reduced Planck constant, $\hat{H}$ is a [Hamiltonian operator](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)), $\psi$ is a wavefunction defined over time $t$ or 3D space $r=(x,y,z)$, $\lambda$ is the reduced electron wavelength, $\sigma$ is the electron-sample interaction constant, and $V(\vec{r})$ is the sample's electrostatic potential {cite:p}`kirkland2020advanced`. 
 
 Equations can be linked using the markdown syntax, for example the above equation has the label `eq_schrodinger_electrons`, which can be referenced using
-`Equation [](eq_schrodinger_electrons)` 
+`Equation [](#eq_schrodinger_electrons)` 
 which is rendered as
-Equation [](eq_schrodinger_electrons). We suggest using highly descriptive labels for equations and other content.
+Equation [](#eq_schrodinger_electrons). We suggest using highly descriptive labels for equations and other content.
 
 For other ways to embed mathematical statements, see <https://mystmd.org/guide/math>.
 
@@ -87,10 +83,10 @@ You can link to any figure, equation, code block, section of your paper, or exte
 
 * [](./index.md)
 * [](./02_typesetting.md)
-* [](paper_layout)
-* Equation [](eq_schrodinger_electrons)
-* [](fig_EWR_graphene_phase)
-* [](fig_movie_widget_ipympl)
+* [](#paper_layout)
+* Equation [](#eq_schrodinger_electrons)
+* [](#fig_EWR_graphene_phase)
+* [](#fig_movie_widget_ipympl)
 * [](#table_example)
 * <https://www.go-fair.org/fair-principles/>
 * {cite:p}`wilkinson2016fair`
