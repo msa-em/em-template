@@ -5,7 +5,7 @@ project:
   short_title: EM Template
   # description:
   keywords: []
-  github: https://github.com/msa-eom/em-template
+  github: https://github.com/msa-em/em-template
   # bibliography: []
   authors:
     - name: Colin Ophus
