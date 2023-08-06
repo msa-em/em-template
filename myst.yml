@@ -40,6 +40,8 @@ project:
     server: true
 site:
   template: book-theme
+  title: EM Template
+  logo_text: EM Template
   projects:
     - slug: myst
       path: .
