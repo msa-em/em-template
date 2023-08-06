@@ -1,6 +1,6 @@
 # README
 
-This repository contains the article template for an `Elemental Microscopy` article. It also contains examples of the standard widgets, including:
+This repository contains the article template for an `Elemental Microscopy` article. It also contains several examples of interactive figures:
 
 ## Images
  <img src="/figures/demo_image_small.gif" alt="image widget example" width="360">
