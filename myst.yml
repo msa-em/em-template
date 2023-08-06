@@ -30,6 +30,7 @@ project:
     GB: grain boundary
     HAADF: high angle annular dark field
     HRTEM: high resolution transmission electron microscopy
+    M&M: Microscopy and Microanalysis
     PDF: portable document format
     STEM: scanning transmission electron microscopy
   # numbering:

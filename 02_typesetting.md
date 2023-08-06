@@ -13,7 +13,7 @@ Your paper should be divided into logical sections. We recommend using different
 * Acknowledgements
 * Competing Interests
 
-We also requite that you include both and introduction and conclusion section. You may organize the remainder of the paper however you wish. All code and data required to reproduce the results be provided inline or as external download links to public repositories. Writing style and article content should generally follow the guidelines of the [Microscopy and Microanalysis](https://academic.oup.com/mam/pages/general-instructions#Manuscript) journal.
+We also requite that you include both and introduction and conclusion section. You may organize the remainder of the paper however you wish. All code and data required to reproduce the results be provided inline or as external download links to public repositories. Writing style and article content should generally follow the guidelines of the [Microscopy and Microanalysis](https://academic.oup.com/mam/pages/general-instructions#Manuscript) journal. Note that you can specify acronyms in the `myst.yml` configuration file. For example try hovering over this text: M&M.
 
 (equations)=
 ## Equations
