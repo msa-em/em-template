@@ -5,7 +5,7 @@ numbering:
   heading_2: false
 ---
 
-*⚠️ This article has not yet been peer-reviewed ⚠️*
+*⚠️ **Pre-Print** - this article has not yet been peer-reviewed. ⚠️*
 
 *Updated 2023 Aug 5*
 
