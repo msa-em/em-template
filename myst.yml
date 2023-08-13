@@ -3,7 +3,7 @@ version: 1
 project:
   title: Article template for Elemental Microscopy
   short_title: EM Template
-  # description:
+  description: Article template for Elemental Microscopy, focused on educational and informative content, using a highly interactive platform built on modern web technologies.
   keywords: []
   github: https://github.com/msa-em/em-template
   # bibliography: []
