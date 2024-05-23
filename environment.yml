@@ -17,5 +17,7 @@ dependencies:
   - jupyterlab
   - jupyterlab-myst
   - trame
+  - trame-vtk
+  - trame-vuetify
   - 'nodejs>=20,<21'
   - mystmd
