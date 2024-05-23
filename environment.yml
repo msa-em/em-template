@@ -17,3 +17,5 @@ dependencies:
   - jupyterlab
   - jupyterlab-myst
   - trame
+  - 'nodejs>=20,<21'
+  - mystmd
