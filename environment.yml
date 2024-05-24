@@ -11,7 +11,7 @@ dependencies:
   - nglview
   - h5py
   - imageio
-  - imageio-ffmpeg
+  - av # instead of imageio-ffmpeg
   - ipywidgets
   - ipympl
   - jupyterlab
