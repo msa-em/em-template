@@ -3,10 +3,8 @@ version: 1
 project:
   title: Article template for Elemental Microscopy
   short_title: EM Template
-  # description:
   keywords: []
   github: https://github.com/msa-em/em-template
-  # bibliography: []
   authors:
     - name: Colin Ophus
       corresponding: true
@@ -33,9 +31,6 @@ project:
     M&M: Microscopy and Microanalysis
     PDF: portable document format
     STEM: scanning transmission electron microscopy
-  # numbering:
-  #   heading_2: true
-  #   heading_3: true
   jupyter:
     server:
       url: http://localhost:8686
@@ -48,7 +43,4 @@ site:
   projects:
     - slug: myst
       path: .
-  actions:
-    - title: Learn More
-      url: https://myst.tools/docs/mystjs/quickstart
   domains: []

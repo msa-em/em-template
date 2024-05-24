@@ -5,9 +5,6 @@ numbering:
   heading_2: false
 ---
 
-*⚠️ **Pre-Print** - this article has not yet been peer-reviewed. ⚠️*
-
-*Updated 2023 Aug 5*
 
 
 +++ {"part": "abstract"} 
@@ -31,9 +28,15 @@ This article is a template for the [Elemental Microscopy](http://www.elementalmi
 * [Curvenote](https://curvenote.com/)
 
 Articles should focus on educational or methodological topics. In the future we will publish original research on this platform, and move many of these features to our sister journals. Your abstract should provide a succinct and clear outline of your paper. Figures can be directly referenced in the abstract, and can be viewed by hovering over them, for example 
++++
 
 
-
++++{"part":"epigraph"}
+:::{warning} Pre-print
+This article has not yet been peer-reviewed  
+*Updated 2024 May 24*
+:::
++++
 
 +++ {"part": "acknowledgements"} 
 ## Acknowledgements
@@ -42,9 +45,10 @@ We thank the [Microscopy Society of America](https://www.microscopy.org/) for sp
 
 
 Work at the Molecular Foundry was supported by the Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
-
++++
 
 +++ {"part": "competing interests"} 
 ## Competing Interests
 
 The authors declare that they have no known competing interests.
++++
