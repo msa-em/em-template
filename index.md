@@ -8,33 +8,31 @@ numbering:
 
 
 +++ {"part": "abstract"} 
-## Abstract
 
 ```{image} /figures/graphical_abstract.png
 :alt: graphical abstract
-:class: bg-primary mb-1
+:class: bg-primary mb-1 float-right
 :width: 256 px
 :align: right
 ```
+This article is a template for the [Elemental Microscopy](https://www.elementalmicroscopy.com/) journal. This journal is focused on educational and informative content, using a highly interactive platform built on modern web technologies. Our articles are written with a combination of: 
 
-This article is a template for the [Elemental Microscopy](http://www.elementalmicroscopy.com/) journal. This journal is focused on educational and informative content, using a highly interactive platform built on modern web technologies. Our articles are written with a combination of: 
 
+* [Python](https://www.python.org)
+* [Jupyter Lab](https://jupyter.org)
+* [Jupyter Book](https://jupyterbook.org)
+* [MyST Markdown](https://mystmd.org)
+* [BibTeX](https://mystmd.org/guide/citations#including-bibtex)
+* [Curvenote](https://curvenote.com)
 
-* [Python](https://www.python.org/)
-* [Jupyter Lab](https://jupyter.org/)
-* [Jupyter Book](https://jupyterbook.org/)
-* [MyST Markdown](https://jupyterbook.org/en/stable/content/myst.html)
-* [BibTeX](https://jupyterbook.org/en/stable/content/myst.html)
-* [Curvenote](https://curvenote.com/)
-
-Articles should focus on educational or methodological topics. In the future we will publish original research on this platform, and move many of these features to our sister journals. Your abstract should provide a succinct and clear outline of your paper. Figures can be directly referenced in the abstract, and can be viewed by hovering over them, for example 
+Articles should focus on educational or methodological topics. In the future we will publish original research on this platform, and move many of these features to our sister journals. Your abstract should provide a succinct and clear outline of your paper.
 +++
 
 
 +++{"part":"epigraph"}
 :::{warning} Pre-print
 This article has not yet been peer-reviewed  
-*Updated 2024 May 24*
+_Updated 2024 May 24_
 :::
 +++
 

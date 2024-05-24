@@ -1,4 +1,4 @@
-# See docs at: https://myst.tools/docs/mystjs/frontmatter
+# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   title: Article template for Elemental Microscopy
@@ -11,12 +11,18 @@ project:
       email: cophus@gmail.com
       orcid: 0000-0003-2348-8558
       affiliations:
-        - National Center for Electron Microscopy, Molecular Foundry, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, USA, 94720
+        - id: ncem
+          department: National Center for Electron Microscopy, Molecular Foundry
+          institution: Lawrence Berkeley National Laboratory
+          address: 1 Cyclotron Road, Berkeley, CA, USA, 94720
     - name: Georgios Varnavides
       email: gvarnavides@berkeley.edu
       orcid: 0000-0001-8338-3323
       affiliations:
-        - Miller Institute for Basic Research in Science, University of California, Berkeley, CA, USA, 94720
+        - id: miller
+          department: Miller Institute for Basic Research in Science
+          institution: University of California, Berkeley
+          address: 468 Donner Lab, Berkeley, CA, USA, 94720
   abbreviations:
     4D-STEM: four dimensional scanning transmission electron microscopy
     BibTeX: portmanteau of of “bibliography” and TeX (LaTeX)
@@ -31,16 +37,22 @@ project:
     M&M: Microscopy and Microanalysis
     PDF: portable document format
     STEM: scanning transmission electron microscopy
+  banner: banner.png
   jupyter:
-    server:
-      url: http://localhost:8686
-      token: 60c1661cc408f978c309d04157af55c9588ff9557c9380e4fb50785750703da6
+    #    server:
+    #      url: http://localhost:8686
+    #      token: 60c1661cc408f978c309d04157af55c9588ff9557c9380e4fb50785750703da6
+    binder:
+      url: https://xhrtcvh6l53u.curvenote.dev/services/binder/
+      repo: msa-em/em-template
+      ref: main
 site:
   template: book-theme
   title: EM Template
   options:
     logo_text: EM Template
-  projects:
-    - slug: myst
-      path: .
-  domains: []
+      #  projects:
+      #    - slug: myst
+      #      path: .
+  domains:
+    - microscopy-EM000000.curve.space
