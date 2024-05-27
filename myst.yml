@@ -1,6 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  id: msa-em-article-template-1
   title: Article template for Elemental Microscopy
   short_title: EM Template
   keywords: []
@@ -38,19 +39,13 @@ project:
     PDF: portable document format
     STEM: scanning transmission electron microscopy
   banner: banner.png
-  jupyter:
-    #    server:
-    #      url: http://localhost:8686
-    #      token: 60c1661cc408f978c309d04157af55c9588ff9557c9380e4fb50785750703da6
-    binder:
-      url: https://xhrtcvh6l53u.curvenote.dev/services/binder/
-      repo: msa-em/em-template
-      ref: main
+  jupyter: true
 site:
   template: book-theme
   title: EM Template
   options:
-    logo_text: EM Template
+    logo_text:
+      EM Template
       #  projects:
       #    - slug: myst
       #      path: .
