@@ -32,6 +32,8 @@ project:
     - 'environment.yml'
   resources:
     - 'notebooks/**/*'
+  references:
+    mystmd: https://mystmd.org/guide
   exports:
     - format: meca
   exclude:
