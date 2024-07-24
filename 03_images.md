@@ -7,7 +7,7 @@ numbering:
 Figures are typically the most important part of any scientific paper, especially for studies focused on microscopy. 
 We can include figures in many ways, for example by inserting conventional static figures using markdown:
 
-:::{figure} ./figures/EWR_graphene_v03.pdf
+:::{figure} ./figures/EWR_graphene_v03.svg
 :name: fig_EWR_graphene
 HRTEM focal series reconstruction of a single-layer graphene GB. (a) Exit wave phase, enlarged in (b). (c) Exit wave amplitude, enlarged in (d).
 Adapted from {cite:t}`ophus2016automatic`.

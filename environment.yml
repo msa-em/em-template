@@ -21,4 +21,3 @@ dependencies:
   - trame-vuetify
   - 'nodejs>=20,<21'
   - mystmd
-  - imagemagick
