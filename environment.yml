@@ -5,11 +5,11 @@ dependencies:
   - python
   - numpy
   - scipy
-  - matplotlib
-  - k3d # 3d volume rendering
   - h5py
+  - matplotlib
+  - k3d
   - imageio
-  - av # instead of imageio-ffmpeg
+  - av
   - ipywidgets
   - ipympl
   - jupyterlab
