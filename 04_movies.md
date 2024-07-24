@@ -38,6 +38,7 @@ Multislice HRTEM simulation of a hollow gold nanosphere. Sample morphology estim
 
 :::{figure} #app:interactive_movie
 :name: fig_movie_widget_ipympl_ipywidgets
+:placeholder: ./figures/movie_widget_ipympl_ipywidgets.png
 Multislice HRTEM simulation of a hollow gold nanosphere. Sample morphology estimated from  {cite:p}`lindley2021spatiotemporal`.
 :::
 
