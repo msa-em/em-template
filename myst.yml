@@ -3,8 +3,11 @@ version: 1
 project:
   id: msa-em-article-template-1
   title: Article template for Elemental Microscopy
+  description: An article template for the Elemental Microscopy journal focused on educational and informative content.
   short_title: EM Template
-  keywords: []
+  keywords:
+    - Article Template
+    - Computational Article
   github: https://github.com/msa-em/em-template
   #  jupyter: true
   jupyter:
@@ -17,7 +20,13 @@ project:
   #      url: 'http://localhost:8888'
   #      token: '512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c'
   open_access: true
+  license: CC-BY-4.0
   banner: banner.png
+  thumbnail: thumbnail.webp
+  date: 2024-07-24
+  history:
+    submitted: 2023-06-09
+    published: 2024-07-24
   requirements:
     - 'environment.yml'
   resources:
@@ -27,7 +36,8 @@ project:
   exclude:
     - README.md
   authors:
-    - name: Colin Ophus
+    - id: cophus
+      name: Colin Ophus
       corresponding: true
       email: cophus@gmail.com
       orcid: 0000-0003-2348-8558
@@ -36,7 +46,9 @@ project:
           department: National Center for Electron Microscopy, Molecular Foundry
           institution: Lawrence Berkeley National Laboratory
           address: 1 Cyclotron Road, Berkeley, CA, USA, 94720
-    - name: Georgios Varnavides
+          ror: 02jbv0t02
+    - id: garnavides
+      name: Georgios Varnavides
       email: gvarnavides@berkeley.edu
       orcid: 0000-0001-8338-3323
       affiliations:
@@ -44,6 +56,18 @@ project:
           department: Miller Institute for Basic Research in Science
           institution: University of California, Berkeley
           address: 468 Donner Lab, Berkeley, CA, USA, 94720
+          ror: 01an7q238
+  funding:
+    - statement: We thank the Microscopy Society of America for sponsoring this project.
+      recipients:
+        - cophus
+        - garnavides
+    - statement: Work at the Molecular Foundry was supported by the Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
+      id: DE-AC02-05CH11231
+      sources:
+        - name: Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy
+      recipients:
+        - cophus
   abbreviations:
     4D-STEM: four dimensional scanning transmission electron microscopy
     BibTeX: portmanteau of of “bibliography” and TeX (LaTeX)
@@ -60,5 +84,3 @@ project:
     STEM: scanning transmission electron microscopy
 site:
   template: book-theme
-  domains:
-    - microscopy-EM000000.curve.space
