@@ -5,6 +5,7 @@ project:
   title: Article template for Elemental Microscopy
   description: An article template for the Elemental Microscopy journal focused on educational and informative content.
   short_title: EM Template
+  doi: 10.69761/TAMJ0615
   keywords:
     - Article Template
     - Computational Article
