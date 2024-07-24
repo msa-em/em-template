@@ -5,16 +5,8 @@ numbering:
   heading_2: false
 ---
 
-
-
 +++ {"part": "abstract"} 
 
-```{image} /figures/graphical_abstract.png
-:alt: graphical abstract
-:class: bg-primary mb-1 float-right
-:width: 256 px
-:align: right
-```
 This article is a template for the [Elemental Microscopy](https://www.elementalmicroscopy.com/) journal. This journal is focused on educational and informative content, using a highly interactive platform built on modern web technologies. Our articles are written with a combination of: 
 
 
@@ -31,13 +23,13 @@ Articles should focus on educational or methodological topics. In the future we 
 
 +++{"part":"epigraph"}
 :::{warning} Pre-print
-This article has not yet been peer-reviewed  
-_Updated 2024 May 24_
+This article has not yet been peer-reviewed.  
+_Updated 2024 July 24_
 :::
+
 +++
 
 +++ {"part": "acknowledgements"} 
-## Acknowledgements
 
 We thank the [Microscopy Society of America](https://www.microscopy.org/) for sponsoring this project. 
 
