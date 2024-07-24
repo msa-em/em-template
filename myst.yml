@@ -6,6 +6,26 @@ project:
   short_title: EM Template
   keywords: []
   github: https://github.com/msa-em/em-template
+  #  jupyter: true
+  jupyter:
+    binder:
+      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
+      repo: msa-em/em-template
+      ref: dev
+  #  jupyter:
+  #    server:
+  #      url: 'http://localhost:8888'
+  #      token: '512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c'
+  open_access: true
+  banner: banner.png
+  requirements:
+    - 'environment.yml'
+  resources:
+    - 'notebooks/**/*'
+  exports:
+    - format: meca
+  exclude:
+    - README.md
   authors:
     - name: Colin Ophus
       corresponding: true
@@ -38,16 +58,7 @@ project:
     M&M: Microscopy and Microanalysis
     PDF: portable document format
     STEM: scanning transmission electron microscopy
-  banner: banner.png
-  jupyter: true
 site:
   template: book-theme
-  title: EM Template
-  options:
-    logo_text:
-      EM Template
-      #  projects:
-      #    - slug: myst
-      #      path: .
   domains:
     - microscopy-EM000000.curve.space

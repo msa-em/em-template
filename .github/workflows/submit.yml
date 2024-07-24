@@ -1,0 +1,17 @@
+name: Create Submission from Main
+on:
+  push:
+    branches: ['main']
+permissions:
+  contents: write
+jobs:
+  submit:
+    uses: curvenote/actions/.github/workflows/submit.yml@v1
+    with:
+      venue: microscopy
+      kind: article
+      collection: articles
+      id-pattern-regex: '^msa-em-[a-zA-Z0-9_-]{1,30}$'
+    secrets:
+      CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
+      GITHUB: ${{ secrets.GITHUB_TOKEN }}

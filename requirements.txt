@@ -1,9 +1,0 @@
-numpy
-scipy
-matplotlib
-plotly
-nglview
-h5py
-ipympl
-jupyterlab-myst
-av # instead of imageio-ffmpeg
