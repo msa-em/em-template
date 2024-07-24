@@ -6,9 +6,7 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
-  - plotly
-  - pyvista
-  - nglview
+  - k3d # 3d volume rendering
   - h5py
   - imageio
   - av # instead of imageio-ffmpeg
@@ -16,8 +14,5 @@ dependencies:
   - ipympl
   - jupyterlab
   - jupyterlab-myst
-  - trame
-  - trame-vtk
-  - trame-vuetify
   - 'nodejs>=20,<21'
   - mystmd
