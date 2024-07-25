@@ -10,12 +10,12 @@ project:
     - Article Template
     - Computational Article
   github: https://github.com/msa-em/em-template
-  #  jupyter: true
-  jupyter:
-    binder:
-      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
-      repo: msa-em/em-template
-      ref: main
+  jupyter: true
+  #  jupyter:
+  #    binder:
+  #      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
+  #      repo: msa-em/em-template
+  #      ref: main
   #  jupyter:
   #    server:
   #      url: 'http://localhost:8888'
