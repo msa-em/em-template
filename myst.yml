@@ -69,6 +69,7 @@ project:
       id: DE-AC02-05CH11231
       sources:
         - name: Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy
+          doi: 10.13039/100000015
       recipients:
         - cophus
   abbreviations:
