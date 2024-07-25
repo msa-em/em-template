@@ -15,7 +15,7 @@ project:
     binder:
       url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
       repo: msa-em/em-template
-      ref: dev
+      ref: main
   #  jupyter:
   #    server:
   #      url: 'http://localhost:8888'
