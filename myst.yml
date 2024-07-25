@@ -50,6 +50,13 @@ project:
           institution: Lawrence Berkeley National Laboratory
           address: 1 Cyclotron Road, Berkeley, CA, USA, 94720
           ror: 02jbv0t02
+      roles:
+        - Conceptualization
+        - Funding acquisition
+        - Project administration
+        - Supervision
+        - Visualization
+        - Writing - original draft
     - id: garnavides
       name: Georgios Varnavides
       email: gvarnavides@berkeley.edu
@@ -60,6 +67,12 @@ project:
           institution: University of California, Berkeley
           address: 468 Donner Lab, Berkeley, CA, USA, 94720
           ror: 01an7q238
+      roles:
+        - Conceptualization
+        - Software
+        - Validation
+        - Visualization
+        - Writing - original draft
   funding:
     - statement: We thank the Microscopy Society of America for sponsoring this project.
       recipients:
