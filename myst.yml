@@ -28,6 +28,10 @@ project:
   history:
     submitted: 2023-06-09
     published: 2024-07-24
+  venue:
+    title: Elemental Microscopy
+    short_title: EM
+    doi: 10.69761/EM
   requirements:
     - 'environment.yml'
   resources:
