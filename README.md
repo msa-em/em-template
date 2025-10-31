@@ -44,7 +44,7 @@ Steps to edit locally:
 - start the jupyter server in one of the terminal windows (`jupyter lab --IdentityProvider.token=512ac78f14e1141db1fac17e8b4099c1e5bc7d589518b38c --ServerApp.allow_origin='http://localhost:3000' --port=8888`)
 - start MyST in the other terminal window (`myst start`)
 - edit, commit, and push to `dev` as per usual
-  - make sure **NOT** to commit your `must.yml` changes!
+  - make sure **NOT** to commit your `myst.yml` changes!
 - open a draft pull request into `main` (if one doesn't already exist) and keep pushing your changes to `dev`
 
 > [!NOTE]
