@@ -13,7 +13,7 @@ project:
   jupyter: true
   #  jupyter:
   #    binder:
-  #      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
+  #      url: https://f22135c6ab89.curvenote.dev/services/binder/
   #      repo: msa-em/em-template
   #      ref: main
   #  jupyter:
