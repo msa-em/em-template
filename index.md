@@ -18,13 +18,11 @@ Articles should focus on educational or methodological topics. In the future we 
 +++
 
 
-+++{"part":"epigraph"}
-:::{warning} Pre-print
-This article has not yet been peer-reviewed.  
-_Updated 2024 July 24_
-:::
+![Pre-print: not yet peer reviewed](figures/em_preprint_badge.svg)
 
-+++
+% After peer review, replace the pre-print badge above with the peer-reviewed badge,
+% linked to the Peer Review page:
+% [![Peer reviewed: open referee reports](figures/em_peer_reviewed_badge.svg)](99_peer_review.md)
 
 +++ {"part": "acknowledgements"} 
 
